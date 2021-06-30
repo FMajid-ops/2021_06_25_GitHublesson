@@ -1,4 +1,3 @@
-# Hi 
 # Learning Github Commands
 
 
@@ -20,8 +19,7 @@
 *confirms the staging area file to be shipped out*
 * git push -u origin master <br />
 *moves the staged files to repo. Note the key word master is not working for me. Use main* 
-  * Item 2a
-  * Item 2b
+
 
 
 **Branching**
