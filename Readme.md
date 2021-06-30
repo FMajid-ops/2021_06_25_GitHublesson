@@ -3,25 +3,22 @@
 
 
 **Repo to local**
-* git clone (clone repo name) 
+* git clone (clone repo name) <br />
 This will bring file to local storage. All of the files in the folder
-* git pull 
+* git pull <br />
 This will bring all the changes that are in repo to local folder. Similar to git clone
 
 
 **Status**
-* git status 
+* git status <br />
 provides information on what files are good for staging
 
 **Local to repo**
-* git add . 
-
+* git add . <br />
 adds everything to the staging area
-* git commit -m "some description"
-
+* git commit -m "some description" <br />
 confirms the staging area file to be shipped out
-* git push -u origin master
-
+* git push -u origin master <br />
 moves the staged files to repo. Note the key word master is not working for me. Use main 
   * Item 2a
   * Item 2b
