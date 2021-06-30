@@ -27,11 +27,11 @@
 **Branching**
 * git branch <br />
 *List all the branches* 
-* git checkout (branch name)
+* git checkout (branch name)<br />
 *checkout a branch*
-* git checkout -b (branch name)
+* git checkout -b (branch name)<br />
 *checkout and create a new branch*
-* git merge (new-branch)
+* git merge (new-branch)<br />
 *checkout out to master branch then use the code*
 
 
